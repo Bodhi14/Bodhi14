@@ -1,7 +1,7 @@
 ### Hi there, this is me Bodhisattwa 👋
 
 
-- 🔭 I’m currently pursuing B.Tech in Electronics and Communication Engineering at NIT Durgapur.
+I’m currently pursuing B.Tech in Electronics and Communication Engineering at NIT Durgapur.
 - 🌱 I’m keen on Tech Stacks like ReactJS, Django, MySQL.
 - 💬 Currently interested in Competitive Programming and Web Development.
 - 📫 Reach Me at:- 
