@@ -7,6 +7,6 @@ I’m currently pursuing B.Tech in Electronics and Communication Engineering at 
 - 📫 Reach Me at:- 
 
 <div class = "container" style="display: flex; flex-direction: row;">
-<img src = "https://github-readme-stats.vercel.app/api?username=Bodhi14&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api?username=Bodhi14&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" style="height: 50px;">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Bodhi14&theme=tokyonight">
 </div>
