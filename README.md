@@ -39,12 +39,12 @@
   
   <td>
   <a href="https://github.com/Bodhi14">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirPaul1&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bodhi14&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Bodhi's Github Stats" height="180rem" />
   </a>
   </td>
     
   <td> 
-<a href="https://github.com/Bodhi14"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
+<a href="https://github.com/Bodhi14"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodhi14&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
   </td>
     
 </tr>
@@ -95,7 +95,7 @@
 <img alt="Windows" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/windows.png">
 </code>](#)
 <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/linux.png">
-</code>](#)
+</code>]
 
 </p>  
 
