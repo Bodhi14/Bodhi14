@@ -14,7 +14,7 @@
   🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
   💡 &nbsp;Some technologies I use include React, Postgresql, C++, HTML, CSS, JS, Linux.\
   🌱 &nbsp;Learning Data Structures and Algorithms, \
-  👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/samirpaul1), [CodeChef](https://www.codechef.com/users/samirpaul1)
+  👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/bodhi140802), [CodeChef](https://www.codechef.com/users/bodhi140802)
   ✉️ &nbsp;Get in touch with me via email at ```bodhi140802@gmail.com``` or connect on [LinkedIn](https://www.linkedin.com/in/bodhisattwa-das-6b5720212/). 
 
 
@@ -95,14 +95,10 @@
 <img alt="Windows" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/windows.png">
 </code>](#)
 <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/linux.png">
-</code>]
+</code>
 
 </p>  
 
-  
-<p align=center>                           
-  <a href="https://github.com/Bodhi14"><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors"></a>     
-</p>
   
   
   
