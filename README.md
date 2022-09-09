@@ -13,7 +13,7 @@
 
   🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
   💡 &nbsp;Some technologies I use include React, Postgresql, C++, HTML, CSS, JS, Linux.\
-  🌱 &nbsp;Learning Data Structures and Algorithms, \
+  🌱 &nbsp;Learning Data Structures and Algorithms, Operating Systems and DBMS.\
   👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/bodhi140802), [CodeChef](https://www.codechef.com/users/bodhi140802)
   ✉️ &nbsp;Get in touch with me via email at ```bodhi140802@gmail.com``` or connect on [LinkedIn](https://www.linkedin.com/in/bodhisattwa-das-6b5720212/). 
 
