@@ -1,10 +1,5 @@
 <p align="center">
-  <a href="#"> <img src="assets/welcome.svg"/> </a>
-</p>
-
-
-<p align="center">
-  <a href="#"> <img src="assets/samir.svg"/> <img src="assets/paul.svg"/> </a>
+  <a href="#"> <img src="assets/welcome.gif"> </a>
 </p>
 
 
