@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"> <img src="assets/welcome.gif"> </a>
+  <a href="#"> <img src="assets/result.gif"> </a>
 </p>
 
 
