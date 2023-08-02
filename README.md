@@ -47,12 +47,8 @@
 </p>
   
   
-<b>*Languages And Tools*:</b>
-  
-<b> </b>  
-
+<b>*Languages And Tools*:</b> 
 <p align="center">
-  
 [<code >
 <img alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
 </code>](#)
