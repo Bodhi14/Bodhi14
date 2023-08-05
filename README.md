@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bodhisattwa Das</h1>
 <h3 align="center">A DSA Enthusiast and a passionate Full Stack Developer</h3>
 
-🌱 I’m currently learning **Data Structures and Algorithms, OS and DBMS.**\
+🌱 I’m currently learning **Data Structures and Algorithms, OS, and DBMS.**
 
-👨‍💻 I am practising on [LeetCode](https://leetcode.com/bodhi140802) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/bodhi140802/practice)\
+👨‍💻 I am practising on [LeetCode](https://leetcode.com/bodhi140802) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/bodhi140802/practice)
 
-💡 Some technologies I use include **React, Node.js, Express.js, MongoDB, Django, PostgreSQL.**\
+💡 Some technologies I use include **React, Node.js, Express.js, MongoDB, Django, PostgreSQL.**
 
-💬 Eager to discuss about **Algorithms, Linux**\
+💬 Eager to discuss about **Algorithms, Linux**
 
-📫 How to reach me **bodhi140802@gmail.com**\
+📫 How to reach me **bodhi140802@gmail.com**
 
-⚡ Always ready for a game of Chess\
+⚡ Always ready for a game of Chess
 
 
 
