@@ -10,7 +10,7 @@
   🌱 &nbsp;Learning Data Structures and Algorithms, Operating Systems and DBMS.\
   👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/bodhi140802) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/bodhi140802/practice)\
   💬 Eager to discuss **Algorithms, Linux**.\
-  ✉️ &nbsp;Get in touch with me via email at ```bodhi140802@gmail.com``` or connect on [LinkedIn](https://www.linkedin.com/in/bodhisattwa-das-6b5720212/).
+  ✉️ &nbsp;Get in touch with me via email at ```bodhi140802@gmail.com``` or connect on [LinkedIn](https://www.linkedin.com/in/bodhisattwa-das-6b5720212/).\
   ⚡ Always ready for a game of Chess.
 
 
