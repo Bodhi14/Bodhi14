@@ -6,7 +6,7 @@
 <b>*About Me*:</b> 
 
   🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at the National Institute of Technology, Durgapur.\
-  💡 &nbsp;Some technologies I use include React, Node.js, Express.js, MongoDB, Django, Postgresql.\
+  💡 &nbsp;Some technologies I use include React, Node.js, Express.js, MongoDB, Django, PostgreSQL.\
   🌱 &nbsp;Learning Data Structures and Algorithms, Operating Systems and DBMS.\
   👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/bodhi140802) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/bodhi140802/practice)\
   💬 &nbsp;Eager to discuss about **Algorithms, Linux**.\
