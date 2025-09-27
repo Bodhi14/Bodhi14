@@ -5,7 +5,7 @@
 
 👨‍💻 I am practising on [LeetCode](https://leetcode.com/bodhi140802) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/bodhi140802/practice)
 
-💡 Some technologies I use include **React, Node.js, Express.js, MongoDB, Django, PostgreSQL.**
+💡 Some technologies I use include **Terraform, Ansible, Linux, Powershell, Azure, React, Node.js, Express.js, MongoDB, Django, PostgreSQL.**
 
 💬 Eager to discuss about **Algorithms, Linux**
 
