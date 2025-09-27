@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bodhisattwa Das</h1>
 <h3 align="center">A DSA Enthusiast and a passionate Full Stack Developer</h3>
 
-🌱 I’m currently learning **Data Structures and Algorithms, OS, and DBMS.**
+🌱 I’m currently working as a DevOps Engineer in **PwC India**.
 
-👨‍💻 I am practising on [LeetCode](https://leetcode.com/bodhi140802) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/bodhi140802/practice)
+👨‍💻 I am deployed in an application migration project, where I primarily contribute as an IaC developer. **Terraform** and **Ansible** are the technologies used in my job profile.
 
 💡 Some technologies I use include **Terraform, Ansible, Linux, Powershell, Azure, React, Node.js, Express.js, MongoDB, Django, PostgreSQL.**
 
