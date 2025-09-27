@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bodhisattwa Das</h1>
-<h3 align="center">A DSA Enthusiast and a passionate Full Stack Developer</h3>
+<h3 align="center">A DevOps Engineer and DSA Enthusiast</h3>
 
 🌱 I’m currently working as a DevOps Engineer in **PwC India**.
 
