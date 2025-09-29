@@ -9,7 +9,7 @@
 
 💬 Eager to discuss about **Algorithms, Linux**
 
-📫 How to reach me **bodhi140802@gmail.com**
+📫 Reach me at **bodhi140802@gmail.com**
 
 ⚡ Always ready for a game of Chess [Profile](https://www.chess.com/member/bodhisattwa140802)
 
