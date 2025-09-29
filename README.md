@@ -11,10 +11,6 @@
 
 📫 Reach me at **bodhi140802@gmail.com**
 
-⚡ Always ready for a game of Chess [Profile](https://www.chess.com/member/bodhisattwa140802)
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bodhisattwa-das-6b5720212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bodhisattwa-das-6b5720212" height="30" width="40" /></a>
